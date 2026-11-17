@@ -1,359 +1,1128 @@
 <?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000001.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000001_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000001_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000001_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000002.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000002_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000002_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000002_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000003.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000003_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000003_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000004.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000004_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000004_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000004_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000005.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000005_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000005_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000005_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000006.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000006_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000006_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000007.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000007_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000007_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000008.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000008_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000008_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000009.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000009_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000009_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000009_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000010.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000010_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000010_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000010_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000011.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000011_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000011_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000011_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000012.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000012_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000012_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000012_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000013.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000013_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000013_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000013_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000014.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000014_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000014_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000014_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000015.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000015_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000015_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000015_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000016.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000016_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000016_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000017.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000017_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000017_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000017_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000018.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000018_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000018_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000019.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000019_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000019_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000019_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000020.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000020_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000020_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000020_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000021.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000021_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000021_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000022.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000022_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000022_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000022_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000023.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000023_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000023_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000023_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000024.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000024_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000024_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000024_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000025.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000025_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000025_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000025_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000026.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000026_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000026_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000026_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000027.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000027_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000027_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000027_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000028.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000028_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000028_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000028_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000029.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000029_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000029_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000030.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000030_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000030_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000031.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000031_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000031_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000032.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000032_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000032_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000033.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000033_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000033_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000033_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000034.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000034_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000034_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000035.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000035_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000035_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000036.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000036_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000036_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000036_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000037.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000037_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000037_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000037_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000038.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000038_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000038_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000038_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000039.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000039_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000039_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000039_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000040.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000040_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000040_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000041.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000041_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000041_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000041_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000042.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000042_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000042_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000043.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000043_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000043_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000043_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000044.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000044_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000044_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000044_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000045.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000045_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000045_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000045_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000046.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000046_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000046_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000047.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000047_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000047_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000048.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000048_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000048_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000048_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000049.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000049_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000049_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000049_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000050.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000050_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000050_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000051.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000051_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000051_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000051_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000052.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000052_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000052_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000053.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000053_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000053_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000054.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000054_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000054_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000054_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000055.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000055_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000055_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000056.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000056_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000056_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000056_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000057.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000057_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000057_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000058.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000058_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000058_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000058_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000059.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000059_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000059_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000059_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000060.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000060_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000060_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000060_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000061.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000061_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000061_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000061_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000062.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000062_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000062_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000062_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000063.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000063_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000063_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000063_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000064.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000064_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000064_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000065.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000065_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000065_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000066.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000066_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000066_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000067.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000067_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000067_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000067_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000068.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000068_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000068_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000068_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000069.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000069_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000069_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000070.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000070_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000070_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000071.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000071_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000071_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000072.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000072_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000072_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000072_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000073.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000073_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000073_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000074.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000074_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000074_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000074_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000075.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000075_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000075_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000076.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000076_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000076_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000076_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000077.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000077_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000077_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000077_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000078.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000078_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000078_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000078_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000079.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000079_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000079_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000080.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000080_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000080_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000080_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000081.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000081_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000081_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000082.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000082_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000082_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000083.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000083_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000083_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000084.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000084_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000084_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000085.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000085_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000085_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000086.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000086_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000086_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000086_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000087.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000087_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000087_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
   <url>
     <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/SKR-2026-000088.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-17</lastmod>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000088_award-certificate.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/certificates/SKR-2026-000088_shortlist-certificate.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2026/press/SKR-2026-000088_press-release.pdf</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
 </urlset>
