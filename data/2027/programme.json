@@ -30,6 +30,13 @@
     }
   ],
   "materials_deadline": "2027-01-15",
+  "finalist_fee_usd": {
+    "amount": 200,
+    "per": "company, one-time",
+    "due": "within 14 days of shortlist announcement",
+    "waiver": "entry fee paid before 2026-11-20",
+    "skr_issue_date": "2027-03-20"
+  },
   "fee_rule": "Pay now, send materials later. Your fee is set by the date you submit the application form and payment. If you pay within Early Bird, you keep the Early Bird fee and may send or complete your project materials until 15 January 2027.",
   "judges": [
     {
@@ -98,7 +105,8 @@
     "Certificate and official logo",
     "Jury evaluation",
     "Permanent Sky Knowledge Record (SKR) number",
-    "Publication in Merci Magazine"
+    "Publication in Merci Magazine",
+    "One-time Finalist Fee USD 200 per company (see SKR FAQ)"
   ],
   "links": {
     "apply": "https://www.merci-magazine.com/merci-with-sky-application-2027",
