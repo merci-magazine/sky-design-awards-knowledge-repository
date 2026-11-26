@@ -1,0 +1,110 @@
+{
+  "programme": "Sky Design Awards 2027",
+  "organiser": "Sky Design Awards by Merci Magazine",
+  "founded": "2019, Japan",
+  "categories": [
+    "Architecture",
+    "Interior Design",
+    "Products",
+    "Graphics",
+    "Branding"
+  ],
+  "fees_usd": [
+    {
+      "tier": "Early Bird",
+      "amount": 370,
+      "from": "2026-11-26",
+      "until": "2026-11-30"
+    },
+    {
+      "tier": "Regular",
+      "amount": 420,
+      "from": "2026-12-01",
+      "until": "2026-12-31"
+    },
+    {
+      "tier": "Late",
+      "amount": 499,
+      "from": "2027-01-01",
+      "until": "2027-01-15"
+    }
+  ],
+  "materials_deadline": "2027-01-15",
+  "fee_rule": "Pay now, send materials later. Your fee is set by the date you submit the application form and payment. If you pay within Early Bird, you keep the Early Bird fee and may send or complete your project materials until 15 January 2027.",
+  "judges": [
+    {
+      "name": "Lee Lin",
+      "title": "Regional Director, Asia-Pacific",
+      "organisation": "Nobu Hospitality",
+      "status": "returning"
+    },
+    {
+      "name": "Daisuke Hironaka",
+      "title": "CEO",
+      "organisation": "Stellar Works",
+      "status": "returning"
+    },
+    {
+      "name": "Harry Lewis",
+      "title": "Divisional Land & Development Director",
+      "organisation": "Berkeley Homes (Capital) plc, Berkeley Group",
+      "status": "new"
+    },
+    {
+      "name": "Chihiro T. Aldeen",
+      "title": "Head of Japan",
+      "organisation": "LASVIT",
+      "status": "new"
+    },
+    {
+      "name": "Scott Brooks",
+      "title": "Founder, Imagennix; Chair of Honors & Awards and Board Advisor, Strategy",
+      "organisation": "AIA Hong Kong Chapter",
+      "status": "new"
+    },
+    {
+      "name": "Shigeru Kubota",
+      "title": "Founder",
+      "organisation": "Degins JP",
+      "status": "new"
+    },
+    {
+      "name": "Ryoko Okada",
+      "title": "Principal, Interior Project Director",
+      "organisation": "ODA Architecture, New York",
+      "status": "new"
+    },
+    {
+      "name": "Peggy Lui",
+      "title": "Founder",
+      "organisation": "Merci Magazine and Sky Design Awards",
+      "status": "editorial"
+    }
+  ],
+  "special_prizes": [
+    {
+      "name": "Stellar Works Special Prize",
+      "status": "Continues in 2027",
+      "description": "Selected by Daisuke Hironaka, CEO of Stellar Works. With Stellar Works' support and sponsorship, the selected designer develops a furniture prototype."
+    },
+    {
+      "name": "LASVIT Japan Special Prize",
+      "status": "New for 2027",
+      "description": "LASVIT Japan joins as sponsor and prize strategic partner. The prize is a prototype exploring glass and lighting design, made with LASVIT's craftsmanship."
+    }
+  ],
+  "shortlisted_benefits": [
+    "Individual press release",
+    "Certificate and official logo",
+    "Jury evaluation",
+    "Permanent Sky Knowledge Record (SKR) number",
+    "Publication in Merci Magazine"
+  ],
+  "links": {
+    "apply": "https://www.merci-magazine.com/merci-with-sky-application-2027",
+    "guidelines_en": "https://www.merci-magazine.com/sky-design-awards-2027-submission-guidelines",
+    "guidelines_ja": "https://www.merci-magazine.com/sky-design-awards-2027-guidelines-ja",
+    "page": "https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2027/"
+  },
+  "record_edition": "2026-11-26"
+}

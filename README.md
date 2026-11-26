@@ -11,6 +11,11 @@ Design, People, Cities and Art.
 
 The 2026 collection contains SKR-2026-000001 through SKR-2026-000088. Every record includes project metadata, an excerpt, the current main editorial and retained official links. These records identify shortlisted/finalist projects; no winner outcomes are announced by this release.
 
+## 2027 programme
+
+- [Sky Design Awards 2027 — call for entries, judging panel, fees and deadlines](Programme/2027.md) (English, 日本語, 中文).
+- [Web page](https://merci-magazine.github.io/sky-design-awards-knowledge-repository/2027/) · [Machine-readable programme data](data/2027/programme.json).
+
 ## Scope and provenance
 
 The project text was prepared from the latest editorial documents confirmed by Merci Magazine on 28 October 2026. Existing company and Merci Magazine project links are retained from its established project registry. SKR numbers serve as stable record identifiers. Established SDA entry numbers retain their registry suffixes and formatting.
